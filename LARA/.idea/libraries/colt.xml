@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="colt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/colt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/opennlp-maxent-3.0.1-incubating.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/opennlp-tools-1.5.1-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
